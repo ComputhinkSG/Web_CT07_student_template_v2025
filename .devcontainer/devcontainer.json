@@ -2,9 +2,9 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "vsls-contrib.gitdoc",
         "ritwickdey.LiveServer",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "vsls-contrib.gitdoc"
       ],
       "settings": {
           "gitdoc.enabled": true,
